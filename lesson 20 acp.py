@@ -1,0 +1,12 @@
+import math
+x = int(input("give me a number: "))
+y = int(input("give me another number: "))
+print(math.pi)
+print(math.sqrt(x))
+print(math.fabs(x))
+print(math.gcd(x, y))
+print(math.exp(x))
+print(math.factorial(x))
+print(math.ceil(x))
+print(math.floor(x))
+print(math.pow(x, y))
